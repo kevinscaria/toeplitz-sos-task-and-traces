@@ -1,0 +1,18 @@
+[
+  {
+    "executable": "lean",
+    "mode": "diagnostics",
+    "runtime_seconds": 99.09987731500587,
+    "returncode": 0,
+    "output_bytes": 90,
+    "output_limit_bytes": 268435456
+  },
+  {
+    "executable": "lean",
+    "mode": "diagnostics",
+    "runtime_seconds": 11.750813780003227,
+    "returncode": 1,
+    "output_bytes": 237,
+    "output_limit_bytes": 268435456
+  }
+]
